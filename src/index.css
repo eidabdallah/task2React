@@ -183,7 +183,7 @@ form {
     text-decoration: underline;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .leftSideP {
         margin-top: 20px;
     }

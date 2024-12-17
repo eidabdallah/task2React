@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import InputField from "./shared/InputField.JSX";
+import InputField from "./shared/InputField.jsx";
 import StarDivider from "./shared/StarDivider.jsx";
 
 export default function Contact() {

@@ -169,7 +169,6 @@ form {
     bottom: 0;
     width: 100%;
     background-color: #343a40;
-    /* اللون الخلفي */
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -182,4 +181,10 @@ form {
 
 .footer .footer-link:hover {
     text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+    .leftSideP {
+        margin-top: 20px;
+    }
 }

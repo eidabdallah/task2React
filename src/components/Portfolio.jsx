@@ -9,7 +9,7 @@ import image6 from "../assets/image/6.png"
 
 export default function Portfolio() {
   return (
-    <section className="portfolio text-center p-5">
+    <section className="portfolio text-center p-5" id="portfolio">
       <div className="container">
         <h2 className="title fw-bold mb-3 mt-5">PORTFOLIO</h2>
         <StarDivider color="rgb(44, 62, 80)" />

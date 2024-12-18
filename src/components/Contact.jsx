@@ -66,7 +66,7 @@ export default function Contact() {
   };
 
   return (
-    <section className="text-center p-5">
+    <section className="text-center p-5" id="contact">
       <div className="container">
         <h2 className="title fw-bold mb-3 mt-5">CONTACT ME</h2>
         <StarDivider color="rgb(44, 62, 80)" />

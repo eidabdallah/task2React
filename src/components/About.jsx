@@ -1,7 +1,7 @@
 import StarDivider from "./shared/StarDivider.jsx";
 export default function About() {
   return (
-    <section className="about text-white text-center mt-5 py-5">
+    <section className="about text-white text-center mt-5 py-5" id="about">
       <div className="container d-flex align-items-center flex-column">
         <h1 className="mb-4 mt-4">ABOUT</h1>
         <StarDivider color="white" />

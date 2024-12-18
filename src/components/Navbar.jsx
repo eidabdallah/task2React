@@ -26,13 +26,13 @@ export default function Navbar() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
             <li className="nav-item mx-0 mx-lg-1">
-              <a className="nav-link text-white fw-bold py-3 px-0 px-lg-3 rounded" href="#">PORTFOLIO</a>
+              <a className="nav-link text-white fw-bold py-3 px-0 px-lg-3 rounded" href="#portfolio">PORTFOLIO</a>
             </li>
             <li className="nav-item mx-0 mx-lg-1">
-              <a className="nav-link text-white fw-bold py-3 px-0 px-lg-3 rounded" href="#">ABOUT</a>
+              <a className="nav-link text-white fw-bold py-3 px-0 px-lg-3 rounded" href="#about">ABOUT</a>
             </li>
             <li className="nav-item mx-0 mx-lg-1">
-              <a className="nav-link text-white fw-bold py-3 px-0 px-lg-3 rounded" href="#">CONTACT</a>
+              <a className="nav-link text-white fw-bold py-3 px-0 px-lg-3 rounded" href="#contact">CONTACT</a>
             </li>
           </ul>
         </div>
